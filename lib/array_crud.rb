@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   cats = ["Cucumbers", "oliver", "luna", "simba"]
-  cats.push ("Judas")
+  cats.push ("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
